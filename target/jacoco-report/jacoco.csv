@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+incHRM,com.inc.user.utility,Calculator,0,35,0,2,0,9,0,6,0,5
+incHRM,com.inc.user.utility,PrimeNumberChecker,0,24,0,4,0,5,0,4,0,2
+incHRM,com.inc.user.utility,LeapYear,3,20,0,6,1,7,1,4,1,1
+incHRM,com.inc.user.controller,LoginController,51,0,0,0,14,0,6,0,6,0
